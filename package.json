@@ -1,0 +1,7 @@
+{
+  "name": "@bartoszhoroba/generatrid",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Bartosz Horoba <bartosz.horoba@gmail.com>",
+  "license": "MIT"
+}
